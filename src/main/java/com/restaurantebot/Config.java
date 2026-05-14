@@ -3,8 +3,8 @@ package com.restaurantebot;
 public class Config {
 
     // ── Bot ───────────────────────────────────────────────────────────────────
-    public static final String BOT_TOKEN    = "8821641828:AAGescQ-KSgyEj60Q2dtM7oPQwHo0Bu7HjI";
-    public static final String BOT_USERNAME = "Sabor_Brasileiro_Bot"; // sem @
+    public static final String BOT_TOKEN    = "";
+    public static final String BOT_USERNAME = ""; // sem @
 
     // ── Atendente ─────────────────────────────────────────────────────────────
     // Chat ID do grupo ou canal onde os atendentes vão receber os pedidos.
